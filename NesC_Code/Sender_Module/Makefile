@@ -1,0 +1,4 @@
+COMPONENT=DetectionSenderAppC
+
+
+include $(MAKERULES)
